@@ -40,7 +40,7 @@
             </form>
             <!-- Login Form Ends HEre -->
 
-            <p class="text-center">Created By Collins Yegon</a></p>
+            <p class="text-center"></a></p>
         </div>
 
     </body>
